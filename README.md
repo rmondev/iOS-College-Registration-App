@@ -67,4 +67,6 @@ A simple yet effective welcome screen that welcomes users to the app.
 
 See the app in action with this demonstration video:
 
+https://github.com/rmondev/iOS-College-Registration-App/assets/85075744/e8d444ab-dda4-49e4-bc1c-013a3c1e5b76
+
 
