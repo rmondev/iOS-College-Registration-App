@@ -63,8 +63,8 @@ class RegInfoAcknowledge: UIViewController {
         lblPersonalEmail.text = receivedPersEmail
         lblSecondEmail.text = receivedSecondEmail
         lblAge.text = receivedAge
-        lblNewsletter.text = receivedNewsletter ? "Yes" : "No"
-        lblPastAttendance.text = receivedPastAttended ? "Yes" : "No"
+        lblNewsletter.text = receivedNewsletter == true ? "Yes" : "No"
+        lblPastAttendance.text = receivedPastAttended == true ? "Yes" : "No"
         lblAttendedLast.text = receivedPastAttendedYears
         
     }
