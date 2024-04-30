@@ -1,6 +1,6 @@
 # iOS College Registration App
 
-This is a college registration app I created to tp practice implmenting several UI Elements such as:
+This is a college registration app I created to practice implementing several UI Elements such as:
 
 - UILabel
 - UITextField
