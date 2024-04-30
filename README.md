@@ -36,8 +36,8 @@ A simple yet effective welcome screen that welcomes users to the app.
 - **UIPageControl**: Page control to move between each are of study.
 
 <p align="center">
-  <img src="/screenshots/ExplreScreen1.png" alt="Explore Screen 1" style="width:25%;">
-  <img src="/screenshots/ExplreScreen2.png" alt="Explore Screen 2" style="width:25%;">
+  <img src="/screenshots/ExploreScreen1.png" alt="Explore Screen 1" style="width:25%;">
+  <img src="/screenshots/ExploreScreen2.png" alt="Explore Screen 2" style="width:25%;">
 </p>
 
 ### Registration Screens
